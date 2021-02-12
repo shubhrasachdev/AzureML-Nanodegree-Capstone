@@ -71,6 +71,10 @@ The best AutoML model -
 
 ![](screenshots/automl-best.png)
 
+The best AutoML model registered -
+
+![](screenshots/automl-reg.png)
+
 Additionally, the feature importance was also observed by setting model explainability to true while submitting the AutoML run.
 
 ![](screenshots/automl-explanation.png)
@@ -425,7 +429,7 @@ print(response.json())
 As a response, we receive either a 1 or a 0, representing the predictions that the person is diabetic or not respectively.
 
 ## Screen Recording
-https://youtu.be/BlVoA5Lf6HM
+Find the screencast with the overviesw of the project [here](https://youtu.be/BlVoA5Lf6HM).
 
 ## Standout Suggestions
 In addition to the project requirements, some additional features from standout suggestions were also implemented.
